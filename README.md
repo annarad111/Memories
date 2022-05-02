@@ -4,7 +4,7 @@
   <div>
   <p>:heart: It is a web application made as a MERN stack and it is mobile responsive.</p>
   <p>:orange_heart: It is a one page web application.</p>
-  <p>:yellow_heart:The memories are displayed on cards with the creator, description, and tags.</p>
+  <p>:yellow_heart: The memories are displayed on cards with the creator, description, and tags.</p>
   <p>:green_heart: There is a like button and a delete button on every card.</p>
   <p>:blue_heart: On the right side there is a form for creating a memoery or editing it.</p>
   <p>:purple_heart: You can edit a card by clicking the three white dots and going to the submit form.</p>
